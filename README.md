@@ -1,6 +1,6 @@
 ### Full Stack Developer
 - Major skill :C#(ASP.NET), Java(Spring Boot), SQL(SQL Server, Oracle)
-- Generalist(~~이것저것 개발합니다..~~)
+- Generalist (~~이것저것 개발합니다..~~)
 
 ### Interest
 - Node & Typescript
