@@ -1,16 +1,15 @@
-### Hi there 👋
+### Full Stack Developer
+- Major skill :C#(ASP.NET), Java(Spring Boot), SQL(SQL Server, Oracle)
+- Generalist(~~이것저것 개발합니다..~~)
 
-<!--
-**ChoHyungHo/chohyungho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interest
+- Node & Typescript
+- Python & Machine Learning
+- Leadership, Mentoring, Writing, Presentation
 
-Here are some ideas to get you started:
+<div align=center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://chohyungho.github.io/)](https://chohyungho.github.io/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyungho-cho-a0b2a013a/)](https://www.linkedin.com/in/hyungho-cho-a0b2a013a/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sagehoit@gmail.com)](mailto:sagehoit@gmail.com)
+</div>
